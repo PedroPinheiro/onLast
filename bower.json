@@ -1,0 +1,21 @@
+{
+	"name": "jquery-onlast",
+	"version": "1.2.7",
+	"main": [
+		"jquery.onlast.js"
+	],
+	"dependencies": {
+		"jquery": ">=1.7.0"
+	},
+	"license": "MIT",
+	"keywords": [
+		"jquery",
+		"event",
+		"javascript",
+		"library"
+	],
+	"ignore": [
+		"/.*",
+		"package.json"
+	]
+}

@@ -1,6 +1,5 @@
 ﻿/*!
- * onLas jQuery Plugin v1.2.7
- * http://jquery.com/
+ * onLast jQuery Plugin v1.2.7
  *
  * Date: 2015-06-18T10:57Z
  */
@@ -44,22 +43,10 @@ var LastHandlers = function () {
         });
     }
     
-    var test = function () {
-        $(document).ready(function () {
-            var fn1 = function () { console.log("I'm the Last!"); }
-            var fn2 = function () { console.log("I'm the First!"); }
-            var fn3 = function () { console.log("I'm the Second!"); }
-            $('input:first').onLast('keyup', fn1);
-            $('input:first').on('keyup', fn2);
-            $('input:first').on('keyup', fn3);
-        });
-    }
-
     return {
         'add': add,
         'run': run,
-        'runAll': runAll,
-        'test' : test
+        'runAll': runAll
     }
 }();
 

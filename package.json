@@ -1,0 +1,28 @@
+{
+	"name": "jquery-onlast",
+	"version": "1.2.7-dev",
+	"title": "onLast (jQuery Plugin)",
+	"main": "js/jquery.onLast",
+	"files": [
+		"jquery.onlast.js"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"jquery": ">=1.7"
+	},
+	"author": {
+		"name": "Pedro Pinheiro",
+		"url": "https://github.com/PedroPinheiro"
+	},
+	"description": "Ensure a event handler to be the last to fire.",
+	"keywords": [
+		"jquery",
+		"event",
+		"javascript",
+		"library"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PedroPinheiro/onLast.git"
+	}
+}
