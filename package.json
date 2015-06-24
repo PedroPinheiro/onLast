@@ -16,7 +16,13 @@
 	},
 	"description": "Ensure a event handler to be the last to fire.",
 	"keywords": [
-		"jquery",
+        "jquery",
+        "jquery-onlast",
+        "jqueryonlast",
+        "jquery.onlast",
+        "jquery-onLast",
+        "jqueryonLast",
+        "jquery.onLast",
 		"event",
 		"javascript",
 		"library"

@@ -9,7 +9,13 @@
 	},
 	"license": "MIT",
 	"keywords": [
-		"jquery",
+        "jquery",
+        "jquery-onlast",
+        "jqueryonlast",
+        "jquery.onlast",
+        "jquery-onLast",
+        "jqueryonLast",
+        "jquery.onLast",
 		"event",
 		"javascript",
 		"library"
